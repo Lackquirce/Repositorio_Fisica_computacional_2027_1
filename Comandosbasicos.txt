@@ -6,3 +6,6 @@ git pull <--- me permite actualizar los uploads de otros repositorios siempre qu
 git clone #Pegar el url https
 git restore --stages "Nombre del archivo" <--- para regresar las precargas de archivos
 
+cd ..<-- cambiar de directorio un nivel atrás
+touch <-- crear archivo dentro de una carpeta
+

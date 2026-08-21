@@ -1,0 +1,8 @@
+git status
+git add * <--- para agregar todos los archivos de un jalón
+git commit -m "Escribe el mensaje que quieras"
+git push <--- sube el archivo al repositorio online
+git pull <--- me permite actualizar los uploads de otros repositorios siempre que lo tenga clonado
+git clone #Pegar el url https
+git restore --stages "Nombre del archivo" <--- para regresar las precargas de archivos
+

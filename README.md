@@ -1,5 +1,5 @@
 # Repositorio_Fisica_computacional_2027-1
-$$\textbf{UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO}$$  
+$$\textbf{\textit{UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO}}$$  
 
 FACULTAD DE CIENCIAS  
 
